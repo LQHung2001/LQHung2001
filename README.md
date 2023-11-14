@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Hung
-- 👀 I’m interested in New stuff but im new so everything is my favourite
-- 🌱 I’m currently learning  ComSci as sophomore
-- 📫 Email me at lqhung2001@gmail for any advertisement on all aspects of ComSci
-
+- 👀 I’m interested in developing tools with my Software Engineering research lab
+- 🌱 I’m currently last year ComSci student
+- 📫 Email me at lqhung2001@gmail 
